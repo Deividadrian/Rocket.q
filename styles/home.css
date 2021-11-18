@@ -17,6 +17,7 @@ header {
   grid-area: left;
 
   background: url(/assets/home-bg-img.svg) no-repeat top/contain;
+  
 }
 
 main {
@@ -27,7 +28,7 @@ main {
 }
 
 main .container {
-  width: min(36.3rem 100%);
+  width: min(36.3rem, 100%);
   
 }
 
