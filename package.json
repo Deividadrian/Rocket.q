@@ -1,0 +1,19 @@
+{
+  "name": "Rocket.q",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuários direcionadas ao dono da página.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ." 
+  },
+  "keywords": [],
+  "author": "Deivid Adrian",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
