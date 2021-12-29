@@ -6,6 +6,6 @@ module.exports = {
     const password = req.body.password
 
     console.log(`room = ${roomId}, questions = ${questionId}
-    action = ${action},password = ${password}`)
+    action = ${action} ,password = ${password}`)
   }
 }
